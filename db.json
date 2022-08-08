@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Franco",
+      "empresa": "Fran Store",
+      "email": "fran@gmail.com",
+      "telefono": "1234567860",
+      "notas": "Hola",
+      "id": 1
+    },
+    {
+      "nombre": "Ryad M",
+      "empresa": "Fran Store",
+      "email": "fran@gmail.com",
+      "telefono": "1234567860",
+      "notas": "Hola 2",
+      "id": 3
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "Kevin Soccer",
+      "email": "kevin@gmail.com",
+      "telefono": "123456789",
+      "notas": "Esta preparando su página web",
+      "id": 4
+    },
+    {
+      "nombre": "Ferran",
+      "empresa": "Ferran Blog",
+      "email": "f@f.com",
+      "telefono": "1234567890",
+      "notas": "Un sito bueno",
+      "id": 6
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Blog Miguel",
+      "email": "m@m.com",
+      "telefono": "7412589630",
+      "notas": "Un sitio",
+      "id": 8
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "Ale strore",
+      "email": "al@al.com",
+      "telefono": "7894561230",
+      "notas": "Un sitio genial",
+      "id": 10
+    }
+  ]
+}
